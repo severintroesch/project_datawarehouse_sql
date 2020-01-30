@@ -5,5 +5,6 @@ Final product of project: https://severintroesch.shinyapps.io/shinyapp_dwh/
   
 Quick notes:  
 -> Read "leistungsnachweis_dwh_bericht_stein_troesch" for project overview (german)  
--> "server.R" and "ui.R" are shiny-frontend to the datawarehouse" (SQL) build the datawarehouse  
--> "ETL-SeverinTroesch&FinnStein7.ktr" and "CreateNorthwindDataCube2  
+-> "ETL-SeverinTroesch&FinnStein7.ktr" and "CreateNorthwindDataCube2.sql" build the datawarehouse  
+-> "server.R" and "ui.R" are shiny-frontend to the datawarehouse  
+
